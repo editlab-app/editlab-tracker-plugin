@@ -1,0 +1,19 @@
+{
+  "name": "editlab-tracker",
+  "displayName": "EditLab Tracker",
+  "version": "0.2.0",
+  "description": "Make and edit songs with Claude in EditLab Tracker on your Mac. Claude writes the notes, picks the sounds, arranges the sections, sets the mix and checks the result, and you can undo every change.",
+  "author": {
+    "name": "EditLab",
+    "url": "https://editlab.app"
+  },
+  "homepage": "https://editlab.app/editlab-tracker/",
+  "keywords": [
+    "music",
+    "songwriting",
+    "beats",
+    "tracker",
+    "mixing",
+    "mac"
+  ]
+}
